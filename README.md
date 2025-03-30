@@ -57,5 +57,8 @@ Este projeto é livre para uso e modificação.
 ⚽ Boa sorte no Cartola FC! Se precisar de melhorias, contribua com sugestões! 🚀
 ---
 
+## versão ia_cartolaV2
+- Puxa pelo apelido do jogador assim fica mais facil de localizar no APP do CartolaFC
+
 
 
